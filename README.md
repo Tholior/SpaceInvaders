@@ -18,6 +18,6 @@ A simple clone of the arcade classic **Space Invaders**, created using Raylib.
 - Basic physics and timing
 - Game structuring using states and loops
 
-##📷 Screenshot of the game:
+## 📷 Screenshot of the game:
 
 ![SpaceInvaders Screenshot](https://i.imgur.com/p3LHzvd.png)
