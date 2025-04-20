@@ -4,7 +4,7 @@
 
 A simple clone of the arcade classic **Space Invaders**, created using Raylib.
 
-> Built as a guided project while learning 2D game development. I followed tutorial to understand how to manage enemy waves, shooting mechanics, and simple collision detection.
+> Built as a guided project while learning 2D game development to understand how to manage enemy waves, shooting mechanics, and simple collision detection.
 
 ## 🎮 Features
 - Player movement and shooting
